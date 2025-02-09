@@ -1,0 +1,3 @@
+C:/Users/zacka/CLionProjects/Airgead Banking Mobile App/cmake-build-debug/CMakeFiles/Airgead_Banking_Mobile_App.dir
+C:/Users/zacka/CLionProjects/Airgead Banking Mobile App/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zacka/CLionProjects/Airgead Banking Mobile App/cmake-build-debug/CMakeFiles/rebuild_cache.dir
